@@ -12,3 +12,7 @@ This repository demonstrates professional GitHub workflows used in DevOps teams.
 - `/scripts/` - Automation scripts
 - `/docs/` - Documentation
 - `/config/` - Configuration files
+
+## Scripts
+- `health-check.sh` - Service health verification
+- `backup-monitor.sh` - Backup freshness check
